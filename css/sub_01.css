@@ -46,7 +46,7 @@
 
 .body > .body_content > .conBox1 > .img_01 { width: 100%; height: 799px; background-color: #fff; margin-bottom: 88px; background-image: url("../img/subPage_fred/img_01.jpg"); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
 
-.body > .body_content > .conBox1 > .img_02 { width: 100%; height: 400px; margin-bottom: 88px; background-image: url("../img/subPage_fred/img_02.jpg"); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
+.body > .body_content > .conBox1 > .img_02 { width: 100%; height: 400px; margin-bottom: 88px; background-image: url("../img/subPage_fred/img_02.jpg"); background-position: 30% 50%; background-size: cover; background-repeat: no-repeat; }
 
 .body > .body_content > .conBox1 > .img_03 { width: 100%; height: 799px; background-color: #fff; margin-bottom: 0; background-image: url("../img/subPage_fred/img_03.jpg"); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
 
@@ -54,7 +54,7 @@
 
 .body > .body_content > .conBox2 > .img_04 { width: 100%; height: 799px; background-color: #acc; margin-bottom: 78px; background-image: url("../img/subPage_fred/img_04.jpg"); }
 
-.body > .body_content > .conBox2 > p { width: 483px; height: 148px; font-size: 1.75rem; line-height: 50px; color: #222; text-align: center; margin: auto; margin-bottom: 78px; }
+.body > .body_content > .conBox2 > p { width: auto; height: auto; margin-bottom: 78px; font-size: 1.5rem; font-weight: normal; line-height: 45px; color: #333; word-spacing: -0.3125rem; text-align: center; margin: auto; margin-bottom: 78px; }
 
 .body > .body_content > .conBox2 > .img_05 { width: 100%; height: 799px; background-color: #fff; background-image: url("../img/subPage_fred/img_05.jpg"); }
 
