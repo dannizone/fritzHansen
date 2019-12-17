@@ -1,0 +1,98 @@
+@media screen and (min-width: 768px) and (max-width: 1279px) { #headBox { height: 70px; }
+  #headBox .h_logo { width: 130px; height: 70px; margin-left: 24px; }
+  #headBox #gnb { width: 522px; height: 100%; margin-right: 24px; }
+  #headBox #gnb .navBox { float: left; width: 418px; height: 100%; margin-right: 24px; }
+  #headBox #gnb .navBox > li { width: auto; height: 100%; font-size: 0.875rem; margin-right: 20px; line-height: 70px; }
+  #headBox #gnb .navBox > li:last-child { margin-right: 0; }
+  #headBox #gnb .search_icon { float: left; width: 30px; height: 100%; margin-right: 15px; background-size: 60%; }
+  #headBox #gnb .whole_icon { float: left; width: 30px; height: 100%; background-size: 90%; }
+  .viewBox_01 { height: 800px; background-position: 50% 50%; }
+  .viewBox_01 > .view_title_01 { top: 300px; left: 62px; width: 164px; height: 127px; }
+  .viewBox_01 > .view_title_01 > dl > dt { font-weight: 600; font-size: 2.75rem; }
+  .viewBox_01 > .view_title_01 > dl > dd { font-size: 1.25rem; color: #fff; }
+  .viewBox_01 .view_title_btn_01 { top: 480px; left: 62px; width: 170px; height: 35px; }
+  .viewBox_01 .view_title_btn_01 a { font-size: 1rem; line-height: 35px; }
+  .conBox_01 { height: 560px; padding-top: 92px; box-sizing: border-box; }
+  .conBox_01 .imgBox_01 { width: 596px; height: 375px; }
+  .conBox_01 .imgBox_01 a { display: block; width: 100%; height: 100%; color: #fff; padding-top: 147px; box-sizing: border-box; }
+  .conBox_01 .imgBox_01 dt { font-size: 1rem; margin-bottom: 20px; }
+  .conBox_01 .imgBox_01 dd { font-size: 1.75rem; }
+  .conBox_01 .imgBox_01 > .img_01 { float: left; width: 269px; height: 100%; }
+  .conBox_01 .imgBox_01 > .img_01 > a { background-color: rgba(0, 0, 0, 0.5); padding-top: 50px; box-sizing: border-box; transition: all 200ms ease-out; }
+  .conBox_01 .imgBox_01 > .img_01 > a:hover, .conBox_01 .imgBox_01 > .img_01 > a:focus { background-color: transparent; color: transparent; }
+  .conBox_01 .imgBox_01 > .img_01 .img_01_title { width: 180px; height: auto; padding-top: 100px; box-sizing: border-box; }
+  .conBox_01 .imgBox_01 > .img_02 { float: right; width: 269px; height: 100%; }
+  .conBox_01 .imgBox_01 > .img_02 > a { background-color: rgba(0, 0, 0, 0.5); padding-top: 50px; box-sizing: border-box; transition: all 200ms ease-out; }
+  .conBox_01 .imgBox_01 > .img_02 > a:hover, .conBox_01 .imgBox_01 > .img_02 > a:focus { background-color: transparent; color: transparent; }
+  .conBox_01 .imgBox_01 > .img_02 .img_02_title { width: 180px; height: auto; padding-top: 100px; box-sizing: border-box; }
+  .conBox_02 { height: 700px; padding-top: 110px; box-sizing: border-box; overflow: hidden; }
+  .conBox_02 .conBox_02_title { width: 720px; height: 140px; }
+  .conBox_02 .conBox_02_title > dl { line-height: 24px; }
+  .conBox_02 .conBox_02_title > dl > dt { font-size: 2rem; }
+  .conBox_02 .conBox_02_title > dl > dd { font-size: 1.125rem; padding-top: 16px; }
+  .conBox_02 .prodBtn_01 { width: 168px; height: 22px; }
+  .conBox_02 .prodBtn_01 > a { width: 100%; height: 100%; display: block; padding-top: 20px; font-size: 14px; border-bottom: 0.5px solid #fff; }
+  .conBox_02 .conBox_02_subBox { height: 190px; }
+  .conBox_02 .conBox_02_subBox .subBox_btn { top: 100%; }
+  .conBox_02 .conBox_02_subBox .subBox_btn button { width: 38px; height: 38px; transform: translateY(-50%); }
+  .conBox_02 .conBox_02_subBox .subBox_btn > .next { margin-right: 62px; box-sizing: border-box; }
+  .conBox_02 .conBox_02_subBox .subBox_btn > .prev { margin-left: 62px; box-sizing: border-box; }
+  .conBox_02 .conBox_02_subBox > ul { width: 1760px; height: 200px; }
+  .conBox_02 .conBox_02_subBox > ul > li { width: 320px; height: 100%; margin-right: 40px; box-sizing: border-box; }
+  .conBox_02 .conBox_02_subBox > ul > li :first-child { margin-right: 0; }
+  .conBox_02 .conBox_02_subBox > ul > li > a { display: block; width: 100%; height: 100%; color: #fff; font-weight: 600; text-align: center; font-size: 1.5rem; padding-top: 85px; box-sizing: border-box; }
+  .conBox_03 { height: 1100px; }
+  .conBox_03:before { content: " "; width: 100%; height: 230px; background-color: #fff; position: absolute; top: -223px; left: 0; }
+  .conBox_03 .conBox_03_title { width: 400px; height: auto; padding-top: 60px; padding-bottom: 80px; }
+  .conBox_03 .conBox_03_title h2 { font-size: 1rem; }
+  .conBox_03 .colBox { width: 640px; height: 600px; }
+  .conBox_03 .colBox > .colBox_01 { width: 100%; height: 300px; }
+  .conBox_03 .colBox > .colBox_01 > li { float: left; width: 168px; height: 100%; margin-right: 68px; box-sizing: border-box; background-size: contain; }
+  .conBox_03 .colBox > .colBox_01 > li > a { width: 100%; height: 100%; display: block; text-align: center; font-size: 1.875rem; line-height: 900px; overflow: hidden; font-weight: bold; transition: all 800ms ease-in-out; color: #222; }
+  .conBox_03 .colBox > .colBox_01 > li > a.action { line-height: 300px; }
+  .conBox_03 .colBox > .colBox_01 > li > a > span { display: block; }
+  .conBox_03 .colBox > .colBox_01 > li:last-child { margin-right: 0; }
+  .conBox_03 .colBox .colBox_02 { width: 100%; height: 300px; }
+  .conBox_03 .colBox .colBox_02 > li { float: left; width: 168px; height: 100%; margin-right: 68px; background-size: contain; }
+  .conBox_03 .colBox .colBox_02 > li > a { width: 100%; height: 100%; display: block; text-align: center; font-size: 1.875rem; line-height: 900px; overflow: hidden; font-weight: bold; transition: all 800ms ease-in-out; color: #222; }
+  .conBox_03 .colBox .colBox_02 > li > a.action { line-height: 300px; }
+  .conBox_03 .colBox .colBox_02 > li > a > span { display: block; }
+  .conBox_03 .colBox .colBox_02 > li:last-child { margin-right: 0; }
+  .conBox_03 .prodBtn_02 { padding-top: 100px; width: 65px; height: 23px; }
+  .conBox_03 .prodBtn_02 a { font-size: 0.875rem; }
+  .viewBox_02 { height: 490px; }
+  .viewBox_02 .view_title_02 { padding-top: 220px; height: 90px; }
+  .viewBox_02 .view_title_02 p { font-size: 2rem; }
+  .viewBox_02 .view_title_02 .view_btn_02 { width: 170px; height: 35px; }
+  .viewBox_02 .view_title_02 .view_btn_02 > a { font-size: 1rem; line-height: 35px; }
+  .adBox { height: 800px; padding-top: 90px; }
+  .adBox .adBox_conBox { width: 380px; height: 500px; margin: auto; }
+  .adBox .adBox_title { width: 100%; height: 100px; }
+  .adBox .adBox_title h2 { font-size: 2.125rem; }
+  .adBox .adBox_info { display: none; }
+  .adBox .newsBtn { width: 100%; height: auto; padding-top: 20px; }
+  .adBox .newsBtn > a { width: 116px; height: 22px; font-size: 0.875rem; font-weight: 600; border-bottom: 0.5px solid #fff; color: #fff; }
+  .adBox .adBox_imgBox { width: 100%; height: 470px; margin-top: 50px; }
+  #footBox { width: 100%; height: auto; text-align: center; }
+  #footBox .fb_01 { width: 400px; height: 650px; margin: auto; box-sizing: border-box; padding-top: 50px; }
+  #footBox .fb_01 .foot_infoBox { width: 100%; height: auto; }
+  #footBox .fb_01 .foot_infoBox > .corp { padding-bottom: 30px; }
+  #footBox .fb_01 .foot_infoBox > .corp > dt { padding-bottom: 10px; font-size: 1rem; font-weight: 700; }
+  #footBox .fb_01 .foot_infoBox > .corp > dd { font-size: 0.75rem; line-height: 25px; }
+  #footBox .fb_01 .foot_infoBox > .busi { padding-bottom: 30px; }
+  #footBox .fb_01 .foot_infoBox > .busi > dt { padding-bottom: 10px; font-size: 1rem; }
+  #footBox .fb_01 .foot_infoBox > .busi > dd { font-size: 0.75rem; line-height: 25px; }
+  #footBox .fb_01 .foot_infoBox > .cusServ { width: 400px; height: 195px; float: left; }
+  #footBox .fb_01 .foot_infoBox > .cusServ > dt { font-size: 1rem; padding-bottom: 10px; }
+  #footBox .fb_01 .foot_infoBox > .cusServ > dd { font-size: 0.75rem; line-height: 25px; }
+  #footBox .fb_02 { width: 100%; height: auto; background-color: #ebebeb; }
+  #footBox .fb_02 .sns_area { width: 325px; height: auto; margin: auto; }
+  #footBox .fb_02 .sns_area > h2 { width: auto; height: auto; box-sizing: border-box; padding-top: 59px; text-align: center; font-size: 1rem; font-weight: 600; }
+  #footBox .fb_02 .sns_area .logoBox { width: 100%; height: 20px; padding-top: 18px; }
+  #footBox .fb_02 .sns_area .logoBox > li { float: left; width: 40px; margin-right: 28px; background-size: contain; }
+  #footBox .fb_02 .sns_area .logoBox > li:last-child { width: 50px; }
+  #footBox .fb_02 .news_area { height: 140px; width: auto; padding-top: 40px; }
+  #footBox .fb_02 .news_area h2 { font-size: 1rem; font-weight: 600; }
+  #footBox .fb_02 .news_area .mailBox { margin: auto; padding-top: 18px; width: 300px; height: 40px; }
+  #footBox .fb_02 .news_area .mailBox input { float: left; width: 260px; height: 100%; font-size: 1rem; }
+  #footBox .fb_02 .news_area .mailBox .input_Btn { float: left; width: 40px; background-size: 40%; } }

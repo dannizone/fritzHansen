@@ -1,0 +1,183 @@
+#headBox { position: fixed; top: 0; left: 0; width: 100%; height: 80px; z-index: 500; background-color: rgba(0, 0, 0, 0.6); max-width: 1920px; }
+
+#headBox .h_logo { width: 210px; height: 80px; margin-left: 391px; }
+
+#headBox #gnb { width: 860px; height: 100%; margin-right: 391px; }
+
+#headBox #gnb .navBox { float: left; width: 640px; height: 100%; margin-right: 81px; }
+
+#headBox #gnb .navBox > li { width: auto; height: 100%; font-size: 1.125rem; margin-right: 55px; line-height: 80px; }
+
+#headBox #gnb .navBox > li:last-child { margin-right: 0; }
+
+#headBox #gnb .search_icon { float: left; width: 42px; height: 80px; margin-right: 55px; background-size: 60%; }
+
+#headBox #gnb .search_icon > a { display: block; width: 100%; height: 80px; }
+
+#headBox #gnb .whole_icon { float: left; width: 42px; height: 80px; background-size: 90%; }
+
+#headBox #gnb .whole_icon > a { display: block; width: 100%; height: 80px; }
+
+#content { width: 100%; height: auto; background-color: #fff; }
+
+.view { position: relative; width: 100%; height: 800px; background-image: url("../../img/subPage_fred/view.jpg"); background-repeat: no-repeat; background-position: 50% 50%; background-size: cover; }
+
+.view > h2 { position: absolute; top: 400px; left: 463px; width: 680px; height: 68px; font-size: 3.75rem; color: #fff; font-weight: 300; }
+
+.intro { position: relative; width: 100%; height: 1104px; background-color: #fff; padding-top: 278px; box-sizing: border-box; }
+
+.intro > dl { width: 1000px; height: 114px; text-align: center; margin: auto; }
+
+.intro > dl > dt { width: 100%; height: 70%; font-size: 2.5rem; font-weight: bold; }
+
+.intro > dl > dd { width: 100%; height: 30%; font-size: 1.625rem; font-weight: 400; }
+
+.intro > .ch_img { position: absolute; left: 0; right: 0; margin: auto; z-index: 100; bottom: -150px; width: 558px; height: 620px; background-image: url("../../img/subPage_fred/fred_shadow.png"); background-repeat: no-repeat; background-position: 50% 50%; background-size: cover; }
+
+.body { width: 100%; height: 3192px; background-color: #ebebeb; padding-top: 584px; box-sizing: border-box; }
+
+.body > .body_content { margin: auto; width: 1200px; height: 2174px; }
+
+.body > .body_content > .conBox1 { float: left; width: 513px; height: 100%; }
+
+.body > .body_content > .conBox1 > .img_01 { width: 100%; height: 799px; background-color: #fff; margin-bottom: 88px; background-image: url(../../img/subPage_fred/img_01.jpg); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
+
+.body > .body_content > .conBox1 > .img_02 { width: 100%; height: 400px; margin-bottom: 88px; background-image: url(../../img/subPage_fred/img_02.jpg); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
+
+.body > .body_content > .conBox1 > .img_03 { width: 100%; height: 799px; background-color: #fff; margin-bottom: 0; background-image: url(../../img/subPage_fred/img_03.jpg); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
+
+.body > .body_content > .conBox2 { float: right; margin-top: 150px; width: 513px; height: 1902px; }
+
+.body > .body_content > .conBox2 > .img_04 { width: 100%; height: 799px; background-color: #acc; margin-bottom: 78px; background-image: url(../../img/subPage_fred/img_04.jpg); }
+
+.body > .body_content > .conBox2 > p { width: 483px; height: 148px; font-size: 1.75rem; line-height: 50px; color: #222; text-align: center; margin: auto; margin-bottom: 78px; }
+
+.body > .body_content > .conBox2 > .img_05 { width: 100%; height: 799px; background-color: #fff; background-image: url(../../img/subPage_fred/img_05.jpg); }
+
+.product_info { width: 100%; height: 600px; padding-top: 166px; box-sizing: border-box; background-color: #777; color: #fff; }
+
+.product_info > .info_content { width: 1138px; height: 268px; margin: auto; }
+
+.product_info > .info_content > .info_1 { float: left; width: 657px; height: 250px; }
+
+.product_info > .info_content > .info_1 > dt { width: 100%; height: 38px; font-size: 1.875rem; margin-bottom: 18px; font-weight: bold; }
+
+.product_info > .info_content > .info_1 > dd { width: 100%; height: 100px; font-size: 1rem; line-height: 36px; font-weight: normal; }
+
+.product_info > .info_content > .info_2 { float: right; width: 384px; height: inherit; }
+
+.product_info > .info_content > .info_2 > dt { width: 100%; height: 38px; font-size: 1.875rem; margin-bottom: 18px; font-weight: bold; }
+
+.product_info > .info_content > .info_2 > dd { width: 100%; height: 52px; font-size: 1rem; line-height: 36px; font-weight: normal; margin-bottom: 40px; }
+
+.select { position: relative; width: 100%; height: 340px; }
+
+.select button { position: absolute; top: 0; right: 0; z-index: 100; width: 50px; height: 241px; border: 1px solid #ccc; background-color: #fff; background-repeat: no-repeat; background-size: 50%; background-position: 50% 50%; }
+
+.select button:nth-of-type(1) { background-image: url("../../img/icon/arrow_next.svg"); }
+
+.select button:nth-of-type(2) { background-image: url("../../img/icon/arrow_prev.svg"); left: 0; right: auto; }
+
+.select > ul { width: 1920px; height: 240px; overflow: hidden; }
+
+.select > ul > li { float: left; width: 384px; height: 100%; background-repeat: no-repeat; background-position: 50% 50%; background-size: 50%; }
+
+.select > ul > li > a { width: 100%; height: 100%; display: block; }
+
+.select > ul > li:first-child { background-color: #ebebeb; background-image: url("../../img/subPage_fred/select_chiar/ch_00.png"); }
+
+.select > ul > li:nth-child(2) { background-image: url("../../img/subPage_fred/select_chiar/ch_01.jpg"); }
+
+.select > ul > li:nth-child(3) { background-image: url("../../img/subPage_fred/select_chiar/ch_02.jpg"); }
+
+.select > ul > li:nth-child(4) { background-image: url("../../img/subPage_fred/select_chiar/ch_03.jpg"); }
+
+.select > ul > li:nth-child(5) { background-image: url("../../img/subPage_fred/select_chiar/ch_04.jpg"); }
+
+.select > ul > li:nth-child(6) { background-image: url("../../img/subPage_fred/select_chiar/ch_05.jpg"); }
+
+.select > ul > li:nth-child(7) { background-image: url("../../img/subPage_fred/select_chiar/ch_06.jpg"); }
+
+.select > ul > li:nth-child(8) { background-image: url("../../img/subPage_fred/select_chiar/ch_07.jpg"); }
+
+.select > .select_content { width: 100%; height: 100px; background-color: #fff; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; box-sizing: border-box; padding-top: 25px; }
+
+.select > .select_content > .select_con1 { float: left; width: 284px; height: 36px; }
+
+.select > .select_content > .select_con1 p { float: left; margin-left: 56px; width: 108px; height: 100%; line-height: 35px; background-color: #fff; font-size: 32px; font-weight: bold; }
+
+.select > .select_content > .select_con1 .ch_nav { float: right; width: 90px; height: 18px; line-height: 18px; margin-top: 9px; font-size: 0.875rem; font-weight: bold; }
+
+.select > .select_content > .select_con1 .ch_nav > .drop_arrow { float: right; width: 15px; height: 100%; background-image: url(../../img/icon/drop-down-arrow-01.svg); background-repeat: no-repeat; background-size: 70%; background-position: 50% 20%; }
+
+.select > .select_content > .select_con1 .ch_nav > .drop_arrow a { width: 100%; height: 100%; display: block; }
+
+.select > .select_content > .select_con2 { width: 453px; height: 60px; float: right; margin-right: 50px; }
+
+.select > .select_content > .select_con2 p:nth-child(1) { float: left; width: 114px; height: 40px; margin-right: 20px; font-size: 1.875rem; font-weight: bold; }
+
+.select > .select_content > .select_con2 p:nth-child(2) { float: left; width: 128px; height: 42px; font-size: 0.75rem; font-weight: normal; margin-top: 4px; }
+
+.select > .select_content > .select_con2 > .buy { float: right; width: 181px; height: 50px; background-color: #000; padding-top: 11px; box-sizing: border-box; }
+
+.select > .select_content > .select_con2 > .buy > a { width: 100%; height: 100%; color: #fff; font-size: 1.25rem; font-weight: bold; display: block; text-align: center; }
+
+.related { width: 100%; height: 600px; padding-top: 125px; box-sizing: border-box; }
+
+.related > h3 { width: 200px; height: 58px; background-color: #fff; font-size: 1.875rem; line-height: 58px; font-weight: normal; color: #222; margin: auto; margin-bottom: 48px; }
+
+.related > .related_content { width: 995px; height: 260px; background-color: #fff; margin: auto; }
+
+.related > .related_content > .rel_con1 { float: left; width: 300px; height: 100%; margin-right: 47px; background-image: url("../../img/product_img/colBox_img_04.jpg"); background-repeat: no-repeat; background-position: 50% 50%; background-size: contain; }
+
+.related > .related_content > .rel_con1 > a { width: 100%; height: 100%; display: block; }
+
+.related > .related_content > .rel_con2 { float: left; width: 300px; height: 100%; background-image: url("../../img/product_img/colBox_img_017.png"); background-repeat: no-repeat; background-position: 50% 50%; background-size: contain; }
+
+.related > .related_content > .rel_con2 > a { width: 100%; height: 100%; display: block; }
+
+.related > .related_content > .rel_con3 { float: right; width: 300px; height: 100%; background-image: url("../../img/product_img/colBox_img_013.png"); background-repeat: no-repeat; background-position: 50% 50%; background-size: contain; }
+
+.related > .related_content > .rel_con3 > a { width: 100%; height: 100%; display: block; }
+
+#footBox { width: 100%; height: 350px; max-width: 1920px; color: #222; font-weight: 400; background-color: #ebebeb; padding-top: 70px; }
+
+#footBox > .foot_conBox { width: 1200px; height: 350px; margin: auto; }
+
+#footBox .fb_01 { float: left; width: 700px; height: 300px; }
+
+#footBox .fb_01 .brand_logo { float: left; width: 130px; height: 30px; margin-right: 70px; background-size: contain; }
+
+#footBox .fb_01 .foot_infoBox { box-sizing: border-box; width: 100%; height: 100%; }
+
+#footBox .fb_01 .foot_infoBox dl { float: left; width: auto; height: auto; text-align: left; margin-right: 70px; }
+
+#footBox .fb_01 .foot_infoBox dl dt { width: auto; margin-bottom: 22px; font-size: 0.875rem; font-weight: bold; }
+
+#footBox .fb_01 .foot_infoBox dl dd { width: auto; font-size: 0.875rem; margin-bottom: 13px; font-weight: 400; }
+
+#footBox .fb_01 .foot_infoBox dl dd a { display: block; width: auto; height: 20px; }
+
+#footBox .fb_01 .foot_infoBox dl dd a:hover { font-weight: 700; color: #222; }
+
+#footBox .fb_02 { float: left; width: auto; height: 300px; margin-left: 50px; background-color: transparent; box-sizing: border-box; }
+
+#footBox .fb_02 h2 { width: 100%; height: auto; font-size: 15px; font-weight: bold; text-align: left; }
+
+#footBox .fb_02 .sns_area { width: 400px; height: auto; }
+
+#footBox .fb_02 .sns_area .logoBox { width: 100%; height: 40px; padding-top: 18px; }
+
+#footBox .fb_02 .sns_area .logoBox > li { float: left; width: 45px; height: 100%; margin-right: 32px; background-size: contain; box-sizing: border-box; }
+
+#footBox .fb_02 .sns_area .logoBox > li > a { width: 100%; height: 100%; display: block; }
+
+#footBox .fb_02 .sns_area .logoBox > li:last-child { width: 70px; }
+
+#footBox .fb_02 .news_area { height: 140px; width: auto; box-sizing: border-box; margin-top: 60px; }
+
+#footBox .fb_02 .news_area .mailBox { margin: 0; padding-top: 18px; width: 400px; height: 50px; }
+
+#footBox .fb_02 .news_area .mailBox input { float: left; width: 290px; height: 100%; text-indent: 20px; }
+
+#footBox .fb_02 .news_area .mailBox .input_Btn { float: left; width: 50px; background-size: 60%; }
