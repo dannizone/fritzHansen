@@ -40,19 +40,19 @@
 
 .body > .body_content > .conBox1 { float: left; width: 513px; height: 100%; }
 
-.body > .body_content > .conBox1 > .img_01 { width: 100%; height: 799px; background-color: #fff; margin-bottom: 88px; background-image: url("../../img/subPage_fred/img_01.jpg"); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
+.body > .body_content > .conBox1 > .img_01 { width: 100%; height: 799px; background-color: #fff; margin-bottom: 88px; background-image: url("../img/subPage_fred/img_01.jpg"); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
 
-.body > .body_content > .conBox1 > .img_02 { width: 100%; height: 400px; margin-bottom: 88px; background-image: url("../../img/subPage_fred/img_02.jpg"); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
+.body > .body_content > .conBox1 > .img_02 { width: 100%; height: 400px; margin-bottom: 88px; background-image: url("../img/subPage_fred/img_02.jpg"); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
 
-.body > .body_content > .conBox1 > .img_03 { width: 100%; height: 799px; background-color: #fff; margin-bottom: 0; background-image: url("../../img/subPage_fred/img_03.jpg"); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
+.body > .body_content > .conBox1 > .img_03 { width: 100%; height: 799px; background-color: #fff; margin-bottom: 0; background-image: url("../img/subPage_fred/img_03.jpg"); background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; }
 
 .body > .body_content > .conBox2 { float: right; margin-top: 150px; width: 513px; height: 1902px; }
 
-.body > .body_content > .conBox2 > .img_04 { width: 100%; height: 799px; background-color: #acc; margin-bottom: 78px; background-image: url("../../img/subPage_fred/img_04.jpg"); }
+.body > .body_content > .conBox2 > .img_04 { width: 100%; height: 799px; background-color: #acc; margin-bottom: 78px; background-image: url("../img/subPage_fred/img_04.jpg"); }
 
 .body > .body_content > .conBox2 > p { width: 483px; height: 148px; font-size: 1.75rem; line-height: 50px; color: #222; text-align: center; margin: auto; margin-bottom: 78px; }
 
-.body > .body_content > .conBox2 > .img_05 { width: 100%; height: 799px; background-color: #fff; background-image: url("../../img/subPage_fred/img_05.jpg"); }
+.body > .body_content > .conBox2 > .img_05 { width: 100%; height: 799px; background-color: #fff; background-image: url("../img/subPage_fred/img_05.jpg"); }
 
 .product_info { width: 100%; height: 600px; padding-top: 166px; box-sizing: border-box; background-color: #777; color: #fff; }
 
@@ -74,9 +74,9 @@
 
 .select button { position: absolute; top: 0; right: 0; z-index: 100; width: 50px; height: 241px; border: 1px solid #ccc; background-color: #fff; background-repeat: no-repeat; background-size: 50%; background-position: 50% 50%; }
 
-.select button:nth-of-type(1) { background-image: url("../../img/icon/arrow_next.svg"); }
+.select button:nth-of-type(1) { background-image: url("../img/icon/arrow_next.svg"); }
 
-.select button:nth-of-type(2) { background-image: url("../../img/icon/arrow_prev.svg"); left: 0; right: auto; }
+.select button:nth-of-type(2) { background-image: url("../img/icon/arrow_prev.svg"); left: 0; right: auto; }
 
 .select > ul { width: 1920px; height: 240px; overflow: hidden; }
 
@@ -84,21 +84,21 @@
 
 .select > ul > li > a { width: 100%; height: 100%; display: block; }
 
-.select > ul > li:first-child { background-color: #ebebeb; background-image: url("../../img/subPage_fred/select_chiar/ch_00.png"); }
+.select > ul > li:first-child { background-color: #ebebeb; background-image: url("../img/subPage_fred/select_chiar/ch_00.png"); }
 
-.select > ul > li:nth-child(2) { background-image: url("../../img/subPage_fred/select_chiar/ch_01.jpg"); }
+.select > ul > li:nth-child(2) { background-image: url("../img/subPage_fred/select_chiar/ch_01.jpg"); }
 
-.select > ul > li:nth-child(3) { background-image: url("../../img/subPage_fred/select_chiar/ch_02.jpg"); }
+.select > ul > li:nth-child(3) { background-image: url("../img/subPage_fred/select_chiar/ch_02.jpg"); }
 
-.select > ul > li:nth-child(4) { background-image: url("../../img/subPage_fred/select_chiar/ch_03.jpg"); }
+.select > ul > li:nth-child(4) { background-image: url("../img/subPage_fred/select_chiar/ch_03.jpg"); }
 
-.select > ul > li:nth-child(5) { background-image: url("../../img/subPage_fred/select_chiar/ch_04.jpg"); }
+.select > ul > li:nth-child(5) { background-image: url("../img/subPage_fred/select_chiar/ch_04.jpg"); }
 
-.select > ul > li:nth-child(6) { background-image: url("../../img/subPage_fred/select_chiar/ch_05.jpg"); }
+.select > ul > li:nth-child(6) { background-image: url("../img/subPage_fred/select_chiar/ch_05.jpg"); }
 
-.select > ul > li:nth-child(7) { background-image: url("../../img/subPage_fred/select_chiar/ch_06.jpg"); }
+.select > ul > li:nth-child(7) { background-image: url("../img/subPage_fred/select_chiar/ch_06.jpg"); }
 
-.select > ul > li:nth-child(8) { background-image: url("../../img/subPage_fred/select_chiar/ch_07.jpg"); }
+.select > ul > li:nth-child(8) { background-image: url("../img/subPage_fred/select_chiar/ch_07.jpg"); }
 
 .select > .select_content { width: 100%; height: 100px; background-color: #fff; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; box-sizing: border-box; padding-top: 25px; }
 
@@ -128,15 +128,15 @@
 
 .related > .related_content { width: 995px; height: 260px; background-color: #fff; margin: auto; }
 
-.related > .related_content > .rel_con1 { float: left; width: 300px; height: 100%; margin-right: 47px; background-image: url("../../img/product_img/colBox_img_04.jpg"); background-repeat: no-repeat; background-position: 50% 50%; background-size: contain; }
+.related > .related_content > .rel_con1 { float: left; width: 300px; height: 100%; margin-right: 47px; background-image: url("../img/product_img/colBox_img_04.jpg"); background-repeat: no-repeat; background-position: 50% 50%; background-size: contain; }
 
 .related > .related_content > .rel_con1 > a { width: 100%; height: 100%; display: block; }
 
-.related > .related_content > .rel_con2 { float: left; width: 300px; height: 100%; background-image: url("../../img/product_img/colBox_img_017.png"); background-repeat: no-repeat; background-position: 50% 50%; background-size: contain; }
+.related > .related_content > .rel_con2 { float: left; width: 300px; height: 100%; background-image: url("../img/product_img/colBox_img_017.png"); background-repeat: no-repeat; background-position: 50% 50%; background-size: contain; }
 
 .related > .related_content > .rel_con2 > a { width: 100%; height: 100%; display: block; }
 
-.related > .related_content > .rel_con3 { float: right; width: 300px; height: 100%; background-image: url("../../img/product_img/colBox_img_013.png"); background-repeat: no-repeat; background-position: 50% 50%; background-size: contain; }
+.related > .related_content > .rel_con3 { float: right; width: 300px; height: 100%; background-image: url("../img/product_img/colBox_img_013.png"); background-repeat: no-repeat; background-position: 50% 50%; background-size: contain; }
 
 .related > .related_content > .rel_con3 > a { width: 100%; height: 100%; display: block; }
 
