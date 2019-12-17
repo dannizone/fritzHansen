@@ -20,7 +20,7 @@
 
 #content { width: 100%; height: auto; background-color: #fff; }
 
-.view { position: relative; width: 100%; height: 800px; background-image: url("../img/subPage_fred/view.jpg"); background-repeat: no-repeat; background-position: 50% 50%; background-size: cover; }
+.view { position: relative; width: 100%; height: 800px; background-image: url("../img/subPage_fred/view.jpg"); background-image: url("../img/subPage_fred/view.jpg"); background-repeat: no-repeat; background-position: 50% 50%; background-size: cover; }
 
 .view > h2 { position: absolute; top: 400px; left: 463px; width: 680px; height: 68px; font-size: 3.75rem; color: #fff; font-weight: 300; }
 
