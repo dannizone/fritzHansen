@@ -29,7 +29,7 @@
 
   .h_logo{
     float: left;
-    background-image: url("../../img/logo/FRITZ_HANSEN_White_RGB.png");
+    background-image: url("../img/logo/FRITZ_HANSEN_White_RGB.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50% 50%;
@@ -41,9 +41,9 @@
       a{color: #fff; font-weight: 300;}
     }
   }//ul
-  .search_icon{background-image: url("../../img/icon/search.svg");
+  .search_icon{background-image: url("../img/icon/search.svg");
   background-position: 50% 50%; background-repeat: no-repeat;}
-  .whole_icon{background-image: url("../../img/icon/whole_icon.svg");
+  .whole_icon{background-image: url("../img/icon/whole_icon.svg");
     background-position: 50% 50%; background-repeat: no-repeat;}
   }
 
@@ -55,7 +55,7 @@
       .foot_infoBox{
         .brand_logo{
           float: left; 
-          background-image: url("../../img/logo/fh1872_logo-01.png");
+          background-image: url("../img/logo/fh1872_logo-01.png");
           background-repeat: no-repeat;
           background-position: 0 20%;
         }
@@ -72,11 +72,11 @@
         .sns_area{
           // height: auto;
           .logoBox{
-            .inst_logo{background-image: url("../../img/logo/instagram.png");}
-            .fb_logo{background-image: url("../../img/logo/facebook.png");}
-            .pin_logo{background-image: url("../../img/logo/pinterest.png");}
-            .you_logo{background-image: url("../../img/logo/youtube_logo.png");}
-            .linked_logo{background-image: url("../../img/logo/linkedIn.png");}
+            .inst_logo{background-image: url("../img/logo/instagram.png");}
+            .fb_logo{background-image: url("../img/logo/facebook.png");}
+            .pin_logo{background-image: url("../img/logo/pinterest.png");}
+            .you_logo{background-image: url("../img/logo/youtube_logo.png");}
+            .linked_logo{background-image: url("../img/logo/linkedIn.png");}
               >li{
                 height: 100%;
                 background-repeat: no-repeat;
@@ -98,7 +98,7 @@
               float: left;
               // width: 40px;
               height: 100%;
-              background-image: url("../../img/icon/inputbtn.png");
+              background-image: url("../img/icon/inputbtn.png");
               background-repeat: no-repeat;
               background-position: 50% 50%;
               background-color: transparent;

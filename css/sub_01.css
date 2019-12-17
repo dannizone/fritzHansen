@@ -112,7 +112,7 @@
 
 .select > .select_content > .select_con1 .ch_nav { float: right; width: 90px; height: 18px; line-height: 18px; margin-top: 9px; font-size: 0.875rem; font-weight: bold; }
 
-.select > .select_content > .select_con1 .ch_nav > .drop_arrow { float: right; width: 15px; height: 100%; background-image: url(../img/icon/drop-down-arrow-01.svg); background-repeat: no-repeat; background-size: 70%; background-position: 50% 20%; }
+.select > .select_content > .select_con1 .ch_nav > .drop_arrow { float: right; width: 15px; height: 100%; background-image: url("../img/icon/drop-down-arrow-01.svg"); background-repeat: no-repeat; background-size: 70%; background-position: 50% 20%; }
 
 .select > .select_content > .select_con1 .ch_nav > .drop_arrow a { width: 100%; height: 100%; display: block; }
 
@@ -188,7 +188,7 @@
 
 #headBox { width: 100%; position: fixed; top: 0; left: 0; right: 0; margin: auto; z-index: 500; background-color: rgba(0, 0, 0, 0.5); }
 
-#headBox .h_logo { float: left; background-image: url("../../img/logo/FRITZ_HANSEN_White_RGB.png"); background-size: contain; background-repeat: no-repeat; background-position: 50% 50%; }
+#headBox .h_logo { float: left; background-image: url("../img/logo/FRITZ_HANSEN_White_RGB.png"); background-size: contain; background-repeat: no-repeat; background-position: 50% 50%; }
 
 #headBox .h_logo > a { display: block; width: 100%; height: 100%; }
 
@@ -198,25 +198,25 @@
 
 #headBox #gnb > ul > li a { color: #fff; font-weight: 300; }
 
-#headBox #gnb .search_icon { background-image: url("../../img/icon/search.svg"); background-position: 50% 50%; background-repeat: no-repeat; }
+#headBox #gnb .search_icon { background-image: url("../img/icon/search.svg"); background-position: 50% 50%; background-repeat: no-repeat; }
 
-#headBox #gnb .whole_icon { background-image: url("../../img/icon/whole_icon.svg"); background-position: 50% 50%; background-repeat: no-repeat; }
+#headBox #gnb .whole_icon { background-image: url("../img/icon/whole_icon.svg"); background-position: 50% 50%; background-repeat: no-repeat; }
 
 #footBox { /* width: 100%;*/ margin: auto; }
 
-#footBox .fb_01 .foot_infoBox .brand_logo { float: left; background-image: url("../../img/logo/fh1872_logo-01.png"); background-repeat: no-repeat; background-position: 0 20%; }
+#footBox .fb_01 .foot_infoBox .brand_logo { float: left; background-image: url("../img/logo/fh1872_logo-01.png"); background-repeat: no-repeat; background-position: 0 20%; }
 
 #footBox .fb_01 .foot_infoBox dt { font-weight: 600; }
 
-#footBox .fb_02 .sns_area .logoBox .inst_logo { background-image: url("../../img/logo/instagram.png"); }
+#footBox .fb_02 .sns_area .logoBox .inst_logo { background-image: url("../img/logo/instagram.png"); }
 
-#footBox .fb_02 .sns_area .logoBox .fb_logo { background-image: url("../../img/logo/facebook.png"); }
+#footBox .fb_02 .sns_area .logoBox .fb_logo { background-image: url("../img/logo/facebook.png"); }
 
-#footBox .fb_02 .sns_area .logoBox .pin_logo { background-image: url("../../img/logo/pinterest.png"); }
+#footBox .fb_02 .sns_area .logoBox .pin_logo { background-image: url("../img/logo/pinterest.png"); }
 
-#footBox .fb_02 .sns_area .logoBox .you_logo { background-image: url("../../img/logo/youtube_logo.png"); }
+#footBox .fb_02 .sns_area .logoBox .you_logo { background-image: url("../img/logo/youtube_logo.png"); }
 
-#footBox .fb_02 .sns_area .logoBox .linked_logo { background-image: url("../../img/logo/linkedIn.png"); }
+#footBox .fb_02 .sns_area .logoBox .linked_logo { background-image: url("../img/logo/linkedIn.png"); }
 
 #footBox .fb_02 .sns_area .logoBox > li { height: 100%; background-repeat: no-repeat; background-position: 50% 50%; }
 
@@ -226,6 +226,6 @@
 
 #footBox .fb_02 .news_area .mailBox input:hover { background-color: rgba(255, 255, 255, 0.4); }
 
-#footBox .fb_02 .news_area .mailBox .input_Btn { float: left; height: 100%; background-image: url("../../img/icon/inputbtn.png"); background-repeat: no-repeat; background-position: 50% 50%; background-color: transparent; border-collapse: collapse; border: 1px solid #999; border-left: 0; }
+#footBox .fb_02 .news_area .mailBox .input_Btn { float: left; height: 100%; background-image: url("../img/icon/inputbtn.png"); background-repeat: no-repeat; background-position: 50% 50%; background-color: transparent; border-collapse: collapse; border: 1px solid #999; border-left: 0; }
 
 #footBox .fb_02 .news_area .mailBox .input_Btn:hover { background-color: #fff; }
